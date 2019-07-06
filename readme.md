@@ -1,4 +1,4 @@
-# alfred-local [![Build Status](https://travis-ci.org/explorador/local-by-flywheel-alfred.svg?branch=master)](https://travis-ci.org/explorador/local-by-flywheel-alfred)
+# alfred-local [![Build Status](https://travis-ci.com/explorador/local-by-flywheel-alfred.svg?branch=master)](https://travis-ci.com/explorador/local-by-flywheel-alfred)
 
 > Local Sites
 
@@ -6,7 +6,7 @@
 ## Install
 
 ```
-$ npm install --global alfred-local
+$ npm install --global alfred-local-by-flywheel
 ```
 
 *Requires [Node.js](https://nodejs.org) 4+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
