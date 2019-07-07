@@ -1,6 +1,6 @@
 {
 	"name": "alfred-local-by-flywheel",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Local by flywheel Alfred Workflow",
 	"license": "MIT",
 	"repository": "https://github.com/explorador/local-by-flywheel-alfred",
@@ -27,8 +27,8 @@
 	},
 	"files": [
 		"index.js",
-    "icon.png",
-    "icon-gray.png",
+		"icon.png",
+		"icon-gray.png",
 		"info.plist"
 	],
 	"keywords": [
