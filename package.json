@@ -27,7 +27,8 @@
 	},
 	"files": [
 		"index.js",
-		"icon.png",
+    "icon.png",
+    "icon-gray.png",
 		"info.plist"
 	],
 	"keywords": [
