@@ -1,6 +1,6 @@
 # alfred-local [![Build Status](https://travis-ci.com/explorador/local-by-flywheel-alfred.svg?branch=master)](https://travis-ci.com/explorador/local-by-flywheel-alfred)
 
-![Preview gif](/explorador/local-by-flywheel-alfred/raw/master/media/alfred-local-by-flywheel-preview.gif?sanitize=true)
+![Preview gif](/media/alfred-local-by-flywheel-preview.gif?sanitize=true)
 
 
 ## Install
