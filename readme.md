@@ -1,6 +1,6 @@
 # alfred-local [![Build Status](https://travis-ci.com/explorador/local-by-flywheel-alfred.svg?branch=master)](https://travis-ci.com/explorador/local-by-flywheel-alfred)
 
-> Local Sites
+![Preview gif](/explorador/local-by-flywheel-alfred/raw/master/media/alfred-local-by-flywheel-preview.gif?sanitize=true)
 
 
 ## Install
@@ -15,6 +15,10 @@ $ npm install --global alfred-local-by-flywheel
 ## Usage
 
 In Alfred, type `local`, <kbd>Enter</kbd>, and your query.
+
+### Options:
+- __Option (⌥)__: Opens site SSH
+- __Command (⌘)__: Opens site root directory
 
 
 ## License
